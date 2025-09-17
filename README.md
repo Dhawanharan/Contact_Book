@@ -1,4 +1,3 @@
-README.txt
 
 ===========================================
 Project Title: Contact Book
